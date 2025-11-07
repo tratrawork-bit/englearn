@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "tratrawork-bit.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "tratrawork-bit.github",
+  "start_url": "https://tratrawork-bit.github.io/englearn/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education"
+  ]
+}
